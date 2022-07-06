@@ -16,7 +16,7 @@ You need the `wpactrl` python library installed as it is used to communicate wit
     $ make
     $ sudo make install
 
-Fix make error: https://blog.csdn.net/qq_42067550/article/details/121924378
+Fix make error: https://blog.csdn.net/qq_42067550/article/details/121924378  
 Configuring `hostapd`
 ----------------------
 
